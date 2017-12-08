@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="demo-producter:war">
+    <output-path>$PROJECT_DIR$/demo-producter/target</output-path>
+    <root id="archive" name="demo-producter-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="demo-producter:war exploded" />
+    </root>
+  </artifact>
+</component>
